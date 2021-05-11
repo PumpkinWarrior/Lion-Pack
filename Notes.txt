@@ -1,0 +1,20 @@
+Loot Tables
+
+Equipment: 10
+	Netherite:1
+		sword
+		axe
+		pickaxe
+		shovel
+		helmet
+		chestplate
+		leggings
+		boots
+		bow
+		crossbow
+		
+	Diamond:5
+	Iron:14
+	Chain: 30
+	Leather: 50
+
