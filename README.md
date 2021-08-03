@@ -2,5 +2,5 @@
 
 **For the use of Lion's Den SMP server** 
 
-> Custom Loot tables, Structures for Minecraft 1.16
+> Custom Loot tables, Structures for Minecraft 1.17
 
